@@ -14,4 +14,5 @@ ______                   _____           _     _
 <i>Help : php Zone-Grabber.php </i>
 <br>
 <b>ScreenshoT :</b>
-<center><a href="https://raw.githubusercontent.com/RedshoT-kl/Zone-Grabber/master/Screenshot.png></a></center>
+<center><img src="https://raw.githubusercontent.com/RedshoT-kl/Zone-Grabber/master/Screenshot.png" 
+alt="ScreenshoT" width="640" height="380" border="30" /></center>
