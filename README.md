@@ -10,9 +10,9 @@ ______                   _____           _     _
 
                     🖤🌿 Developed By RedshoT 🖤🌿
 </pre>
-<br>
+<br><br>
 <i>Help : php Zone-Grabber.php </i>
-<br>
+<br><br>
 <b>ScreenshoT :</b>
 <center><img src="https://raw.githubusercontent.com/RedshoT-kl/Zone-Grabber/master/Screenshot.png" 
 alt="ScreenshoT" width="640" height="380" border="30" /></center>
